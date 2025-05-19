@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2mod\\Desktop\\projetocidade10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72CEA891-275F-44B2-A732-E1B679A032EB}|projetocidade10\\projetocidade10.csproj|c:\\users\\2mod\\desktop\\projetocidade10\\projetocidade10\\wwwroot\\css\\listarproduto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{72CEA891-275F-44B2-A732-E1B679A032EB}|projetocidade10\\projetocidade10.csproj|solutionrelative:projetocidade10\\wwwroot\\css\\listarproduto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CEA891-275F-44B2-A732-E1B679A032EB}|projetocidade10\\projetocidade10.csproj|c:\\users\\2mod\\desktop\\projetocidade10\\projetocidade10\\wwwroot\\css\\cadastrarproduto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{72CEA891-275F-44B2-A732-E1B679A032EB}|projetocidade10\\projetocidade10.csproj|solutionrelative:projetocidade10\\wwwroot\\css\\cadastrarproduto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CEA891-275F-44B2-A732-E1B679A032EB}|projetocidade10\\projetocidade10.csproj|c:\\users\\2mod\\desktop\\projetocidade10\\projetocidade10\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{72CEA891-275F-44B2-A732-E1B679A032EB}|projetocidade10\\projetocidade10.csproj|solutionrelative:projetocidade10\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CEA891-275F-44B2-A732-E1B679A032EB}|projetocidade10\\projetocidade10.csproj|c:\\users\\2mod\\desktop\\projetocidade10\\projetocidade10\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{72CEA891-275F-44B2-A732-E1B679A032EB}|projetocidade10\\projetocidade10.csproj|solutionrelative:projetocidade10\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CEA891-275F-44B2-A732-E1B679A032EB}|projetocidade10\\projetocidade10.csproj|c:\\users\\2mod\\desktop\\projetocidade10\\projetocidade10\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{72CEA891-275F-44B2-A732-E1B679A032EB}|projetocidade10\\projetocidade10.csproj|solutionrelative:projetocidade10\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CEA891-275F-44B2-A732-E1B679A032EB}|projetocidade10\\projetocidade10.csproj|c:\\users\\2mod\\desktop\\projetocidade10\\projetocidade10\\wwwroot\\css\\editarproduto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{72CEA891-275F-44B2-A732-E1B679A032EB}|projetocidade10\\projetocidade10.csproj|solutionrelative:projetocidade10\\wwwroot\\css\\editarproduto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CEA891-275F-44B2-A732-E1B679A032EB}|projetocidade10\\projetocidade10.csproj|c:\\users\\2mod\\desktop\\projetocidade10\\projetocidade10\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72CEA891-275F-44B2-A732-E1B679A032EB}|projetocidade10\\projetocidade10.csproj|solutionrelative:projetocidade10\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\projetocidade10\\projetocidade10\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "projetocidade10\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\projetocidade10\\projetocidade10\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "projetocidade10\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-19T19:53:12.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.css",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\projetocidade10\\projetocidade10\\wwwroot\\css\\Home.css",
+              "RelativeDocumentMoniker": "projetocidade10\\wwwroot\\css\\Home.css",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\projetocidade10\\projetocidade10\\wwwroot\\css\\Home.css",
+              "RelativeToolTip": "projetocidade10\\wwwroot\\css\\Home.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-19T19:53:08.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastrarProduto.css",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\projetocidade10\\projetocidade10\\wwwroot\\css\\CadastrarProduto.css",
+              "RelativeDocumentMoniker": "projetocidade10\\wwwroot\\css\\CadastrarProduto.css",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\projetocidade10\\projetocidade10\\wwwroot\\css\\CadastrarProduto.css",
+              "RelativeToolTip": "projetocidade10\\wwwroot\\css\\CadastrarProduto.css",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-19T19:53:03.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditarProduto.css",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\projetocidade10\\projetocidade10\\wwwroot\\css\\EditarProduto.css",
+              "RelativeDocumentMoniker": "projetocidade10\\wwwroot\\css\\EditarProduto.css",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\projetocidade10\\projetocidade10\\wwwroot\\css\\EditarProduto.css",
+              "RelativeToolTip": "projetocidade10\\wwwroot\\css\\EditarProduto.css",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAswI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-19T19:52:40.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListarProduto.css",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\projetocidade10\\projetocidade10\\wwwroot\\css\\ListarProduto.css",
+              "RelativeDocumentMoniker": "projetocidade10\\wwwroot\\css\\ListarProduto.css",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\projetocidade10\\projetocidade10\\wwwroot\\css\\ListarProduto.css",
+              "RelativeToolTip": "projetocidade10\\wwwroot\\css\\ListarProduto.css",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-19T19:52:28.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.css",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\projetocidade10\\projetocidade10\\wwwroot\\css\\Login.css",
+              "RelativeDocumentMoniker": "projetocidade10\\wwwroot\\css\\Login.css",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\projetocidade10\\projetocidade10\\wwwroot\\css\\Login.css",
+              "RelativeToolTip": "projetocidade10\\wwwroot\\css\\Login.css",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAG4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-19T19:51:52.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\projetocidade10\\projetocidade10\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "projetocidade10\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\projetocidade10\\projetocidade10\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "projetocidade10\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T19:49:51.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

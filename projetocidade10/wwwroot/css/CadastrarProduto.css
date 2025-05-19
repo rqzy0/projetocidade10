@@ -1,0 +1,66 @@
+﻿
+﻿ /* Reset básico */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #808080, #3be2f3); 
+}
+/* Estilo do formulário */
+form {
+    width: 100%;
+    max-width: 500px;
+    background-color: #a24bff; /* Roxo médio */
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+}
+
+/* Estilo dos rótulos */
+label {
+    display: block;
+    margin-top: 15px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+/* Estilo dos botões */
+.btn {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+/* Botão primário */
+.btn-primary,
+.btn-success {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.4s ease;
+    border: none;
+    color: white;
+}
+
+/* Botão azul-roxo claro */
+.btn-primary {
+    background-color: #6a0dad;
+}
+
+    .btn-primary:hover {
+        background-color: #530f91;
+        letter-spacing: 1px;
+    }
+
+/* Botão roxo escuro */
+.btn-success {
+    background-color: #6a0dad;
+}
+
+    .btn-success:hover {
+        background-color: #530f91;
+        letter-spacing: 1px;
+    }
